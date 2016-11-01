@@ -1,0 +1,4 @@
+
+Source: http://nilmworkshop.org/2016/
+NILM (or disaggregation) is a growing research field which began in 1985 with a report written by George W. Hart (MIT) for Electric Power Research Institute (EPRI). NILM is used to discern what electrical loads (e.g., appliances) are running within a home/building using only the aggregate power meter. Why? To help occupants understand how they and their appliance use energy so that they could conserve to either save money, the environment, or both.
+
